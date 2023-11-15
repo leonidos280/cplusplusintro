@@ -1,0 +1,3 @@
+C:/Users/imad alaoui/CLionProjects/cplusplusintro/cmake-build-debug/CMakeFiles/cplusplusintro.dir
+C:/Users/imad alaoui/CLionProjects/cplusplusintro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imad alaoui/CLionProjects/cplusplusintro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
